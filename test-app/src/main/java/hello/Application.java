@@ -12,7 +12,7 @@ public class Application {
 
 	@RequestMapping("/")
 	public String home() {
-		// Add comments
+		// Add comments pour les tests de commit
 		return "Hello cherif  World from OpenShift (v2)";
 	}
 
